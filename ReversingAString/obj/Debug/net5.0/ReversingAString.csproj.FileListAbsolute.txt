@@ -1,0 +1,16 @@
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\bin\Debug\net5.0\ReversingAString.exe
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\bin\Debug\net5.0\ReversingAString.deps.json
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\bin\Debug\net5.0\ReversingAString.runtimeconfig.json
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\bin\Debug\net5.0\ReversingAString.runtimeconfig.dev.json
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\bin\Debug\net5.0\ReversingAString.dll
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\bin\Debug\net5.0\ref\ReversingAString.dll
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\bin\Debug\net5.0\ReversingAString.pdb
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\obj\Debug\net5.0\ReversingAString.csproj.AssemblyReference.cache
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\obj\Debug\net5.0\ReversingAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\obj\Debug\net5.0\ReversingAString.AssemblyInfoInputs.cache
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\obj\Debug\net5.0\ReversingAString.AssemblyInfo.cs
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\obj\Debug\net5.0\ReversingAString.csproj.CoreCompileInputs.cache
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\obj\Debug\net5.0\ReversingAString.dll
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\obj\Debug\net5.0\ref\ReversingAString.dll
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\obj\Debug\net5.0\ReversingAString.pdb
+C:\Users\maks9\source\repos\ReversingAStringSln\ReversingAString\obj\Debug\net5.0\ReversingAString.genruntimeconfig.cache
