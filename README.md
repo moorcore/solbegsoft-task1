@@ -1,2 +1,2 @@
-# solbegsoft-task1
-A task for SolbegSoft internship.
+# solbegsoft-tasks
+Tasks for SolbegSoft internship.
